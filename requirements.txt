@@ -1,0 +1,6 @@
+# 先装这些就够开始了。等你的环境跑通、代码稳定了，再回来把版本号钉死（pip freeze > requirements.txt）。
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyterlab
