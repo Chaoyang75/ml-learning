@@ -21,7 +21,7 @@
 ## 怎么跑起来
 
 ```bash
-git clone <仓库地址>
+git clone https://github.com/Chaoyang75/ml-learning.git
 cd ml-learning
 pip install -r requirements.txt
 jupyter lab
